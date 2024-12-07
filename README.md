@@ -1,4 +1,5 @@
-Sure! Here are several different Python programming tasks at a basic level for you to work on. You can choose any of them, and feel free to share your code when you're ready for feedback.
+10 Basic Projects: 
+
 
 ### Task 1: Check if a Number is Even or Odd
 Write a Python program that takes an integer input from the user and checks if it is even or odd.
