@@ -84,6 +84,4 @@ Write a Python program that displays the multiplication table for a number enter
 - Ask the user for a number.
 - Print the multiplication table (1 to 10) for that number.
 
----
- four brother hostel 
-Feel free to choose any of the tasks above, implement them, and share your code! I'll be happy to review it and provide further assistance.
+End 
